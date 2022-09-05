@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thii-rodriguees
-- 👀 I’m interested in  DATA SCIENCE , MACHINE LEARNING E DEEP LEARNING.
+- 👀 I’m interested in DATA SCIENCE AND MACHINE LEARNING
 - 🌱 I’m currently learning  PYTHON, MYSQL E POWER BI 
 - 💞️ I’m looking to collaborate em projetos  empresariais.
 - 📫 How to reach me  : 11985266631
