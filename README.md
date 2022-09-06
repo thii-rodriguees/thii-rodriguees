@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @thii-rodriguees
-- 👀 I’m interested in DATA SCIENCE AND MACHINE LEARNING
-- 🌱 I’m currently learning  PYTHON, MYSQL E POWER BI 
-- 💞️ I’m looking to collaborate em projetos  empresariais.
-- 📫 How to reach me  : 11985266631
 
-<!---
-thii-rodriguees/thii-rodriguees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Olá! Eu sou o Thiago Rodrigues 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/feed/)
+
+
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thii-rodriguees&show_icons=true&theme=radical)
+
+###Tecnologias
+
+[![Power BI](0x2364858d486c34a790c8c653dedf10159e51649020c00c4dc781b4a481b9bb15)] 
+
