@@ -1,7 +1,7 @@
 
 
 ### Olá! Eu sou o Thiago Rodrigues ✌
-- Seja Bem Vindo
+
 
 
 
