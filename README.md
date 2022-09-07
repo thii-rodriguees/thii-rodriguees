@@ -11,7 +11,7 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thii-rodriguees&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thii-rodriguees&layout=compact)](https://github.com/thii-rodriguees/github-readme-stats)
+
 
 ### Tecnologias e Habilidades 
 
