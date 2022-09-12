@@ -1,11 +1,16 @@
 
 
 ### Olá! Eu sou o Thiago Rodrigues ✌
+- Estudante de ciência de Dados pela UNIVESP.
+
+- Power BI - (ETL, Criação e manutenção de Dashboards e análise de dados de diversos modelos de negócio.)
+
+- Python - funções básicas, operações matemáticas e lógicas, bibliotecas para visualização e tratamento de bases, 
+pandas, numpy entre outras.
 
 
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.)](https://www.linkedin.com/feed/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.)](https://www.linkedin.com/in/thiago-rodrigues-972456119/)
 
 
 
